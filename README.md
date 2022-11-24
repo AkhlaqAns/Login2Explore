@@ -19,8 +19,8 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/AkhlaqAns/Login2Explore/tree/main/Screenshots/dashboard.JPG)
+![Dashboard](Screenshots/dashboard.JPG)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Index Page](Screenshots/index.JPG)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![Visualize](Screenshots/db.JPG)
